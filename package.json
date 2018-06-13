@@ -1,0 +1,33 @@
+{
+  "name": "composition-debugger",
+  "version": "1.0.0",
+  "description": "Set a breakpoint in a composition",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/composition-debugger.git"
+  },
+  "keywords": [
+    "fp",
+    "functional",
+    "programming",
+    "debug",
+    "composition",
+    "compose",
+    "debugger",
+    "ramda"
+  ],
+  "author": "Steve Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemao/composition-debugger/issues"
+  },
+  "homepage": "https://github.com/stevemao/composition-debugger#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^10.3.2"
+  }
+}
