@@ -22,6 +22,10 @@ var dasherize = compose(join('-'), toLower, cdebugger, split(' '), replace(/\s{2
 dasherize('The world is a vampire');
 ```
 
+Check https://nodejs.org/en/docs/guides/debugging-getting-started/ for details on how to pause on breakpoints.
+
+One quick way is:
+
 ```
 node inspect index.js
 ```
